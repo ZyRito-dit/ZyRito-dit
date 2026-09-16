@@ -24,9 +24,10 @@
 ---
 
 ### 📊 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyRito-dit&layout=compact&theme=radical)
-![ZyRito-dit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyRito-dit&show_icons=true&theme=radical)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZyRito-dit&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZyRito-dit&theme=radical" alt="Top Langs" />
+</p>
 ---
 
 ### 💬 About Me
